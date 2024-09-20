@@ -1,0 +1,25 @@
+[
+    {
+        "Company": "Company",
+        "Last_Name": "API RUN-24",
+        "No_of_Employees":20,
+        "Description":"Adding lead through api",
+        "Product_Name":"Product name here"
+    }
+]FETCH INVENTORY[
+    {
+        "Company": "Company",
+        "Last_Name": "API RUN-24",
+        "No_of_Employees":20,
+        "Description":"Adding lead through api",
+        "Product_Name":"Product name here"
+    }
+]something_special[
+    {
+        "Company": "Company",
+        "Last_Name": "API RUN-24",
+        "No_of_Employees":20,
+        "Description":"Adding lead through api",
+        "Product_Name":"Product name here"
+    }
+]
